@@ -54,6 +54,6 @@ Embedded/IoT devices should:
 For more information, see also:
 
 * [OWASP Internet of Things Top 10](https://www.owasp.org/images/7/71/Internet_of_Things_Top_Ten_2014-OWASP.pdf)
-* [OWASP Embedded Application Security Project](https://www.owasp.org/index.php/OWASP_Embedded_Application_Security)
+* [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/migrated_content)
 * [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
 * [Trudy TCP Proxy Tool](https://github.com/praetorian-inc/trudy)
